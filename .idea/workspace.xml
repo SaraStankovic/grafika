@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="project_base" targetName="imgui" />
+      <config projectName="project_base" targetName="glad" />
+      <config projectName="project_base" targetName="STB_IMAGE" />
+      <config projectName="project_base" targetName="project_base" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac03873d-235b-4dd1-b85a-e009d5a877bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/objects/IndoorPotPlant/indoor plant_02_obj/indoor plant_02.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/objects/IndoorPotPlant/indoor plant_02_obj/indoor plant_02.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/objects/IndoorPotPlant/indoor plant_02_obj/plant_2_COL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/objects/IndoorPotPlant/indoor plant_02_obj/plant_2_NOR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/objects/IndoorPotPlant/indoor plant_02_obj/plant_2_vl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/shaders/cubeShader.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/shaders/plantShader.vs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/shaders/pointLight.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/shaders/pointLight.vs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/TexturesCom_BrokenGlass0048_1_S.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/TexturesCom_BrokenGlass0048_2_S.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/include/imgui.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/include/imgui.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/include/imstb_rectpack.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/include/imstb_rectpack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/include/imstb_truetype.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/include/imstb_truetype.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/src/imgui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/src/imgui.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/src/imgui_draw.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/src/imgui_draw.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/objects/backpack/ao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/objects/backpack/backpack.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/objects/backpack/backpack.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/objects/backpack/diffuse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/objects/backpack/normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/objects/backpack/roughness.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/objects/backpack/source_attribution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/objects/backpack/specular.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/program_state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/shaders/2.model_lighting.fs" beforeDir="false" afterPath="$PROJECT_DIR$/resources/shaders/plantShader.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/shaders/2.model_lighting.vs" beforeDir="false" afterPath="$PROJECT_DIR$/resources/shaders/cubeShader.vs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/textures/awesomeface.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/textures/container.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1w6Kru04bWiPq0Q0abvD3mGDepb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/LearnOpenGL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/objects/IndoorPotPlant/indoor plant_02_obj" />
+      <recent name="$PROJECT_DIR$/resources/objects/IndoorPotPlant/textures" />
+      <recent name="$PROJECT_DIR$/resources/objects" />
+      <recent name="$PROJECT_DIR$/resources/objects/plant" />
+      <recent name="$PROJECT_DIR$/resources/objects/1Earth-made-by-ELITE3d/Model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/objects/1Earth-made-by-ELITE3d/Render" />
+      <recent name="$PROJECT_DIR$/resources/textures" />
+      <recent name="$PROJECT_DIR$/resources/objects/1Earth-made-by-ELITE3d/Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.project_base">
+    <configuration name="STB_IMAGE" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project_base" TARGET_NAME="STB_IMAGE" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glad" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project_base" TARGET_NAME="glad" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="imgui" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project_base" TARGET_NAME="imgui" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project_base" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project_base" TARGET_NAME="project_base" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="project_base" RUN_TARGET_NAME="project_base">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.STB_IMAGE" />
+      <item itemvalue="CMake Application.glad" />
+      <item itemvalue="CMake Application.imgui" />
+      <item itemvalue="CMake Application.project_base" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac03873d-235b-4dd1-b85a-e009d5a877bd" name="Default Changelist" comment="" />
+      <created>1627773799362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627773799362</updated>
+      <workItem from="1627773800393" duration="9417000" />
+      <workItem from="1627785199952" duration="582000" />
+      <workItem from="1627811478067" duration="6107000" />
+      <workItem from="1627989376894" duration="61000" />
+      <workItem from="1628594349333" duration="5579000" />
+      <workItem from="1628685525381" duration="11555000" />
+      <workItem from="1628701752753" duration="1983000" />
+      <workItem from="1628705633272" duration="6940000" />
+      <workItem from="1628756241899" duration="463000" />
+      <workItem from="1628758705599" duration="674000" />
+      <workItem from="1630526579054" duration="17000" />
+      <workItem from="1630527644231" duration="49000" />
+      <workItem from="1630529733872" duration="38000" />
+      <workItem from="1631175952762" duration="2039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="294" width="810" height="467" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628706555353">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="550" y="294" width="810" height="467" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1628706555353" />
+    <state x="562" y="157" width="786" height="741" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1628701940259">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="562" y="157" width="786" height="741" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1628701940259" />
+    <state x="637" y="169" width="636" height="717" key="FileChooserDialogImpl" timestamp="1630529749661">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="637" y="169" width="636" height="717" key="FileChooserDialogImpl/0.0.1920.1053@0.0.1920.1053" timestamp="1630529749661" />
+    <state width="891" height="240" key="GridCell.Tab.0.bottom" timestamp="1631176966614">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="891" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1631176966614" />
+    <state width="891" height="240" key="GridCell.Tab.0.center" timestamp="1631176966613">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="891" height="240" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1631176966613" />
+    <state width="891" height="240" key="GridCell.Tab.0.left" timestamp="1631176966613">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="891" height="240" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1631176966613" />
+    <state width="891" height="240" key="GridCell.Tab.0.right" timestamp="1631176966613">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="891" height="240" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1631176966613" />
+    <state width="1852" height="309" key="GridCell.Tab.1.bottom" timestamp="1628600151630">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1852" height="309" key="GridCell.Tab.1.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1628600151630" />
+    <state width="1852" height="309" key="GridCell.Tab.1.center" timestamp="1628600151630">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1852" height="309" key="GridCell.Tab.1.center/0.0.1920.1053@0.0.1920.1053" timestamp="1628600151630" />
+    <state width="1852" height="309" key="GridCell.Tab.1.left" timestamp="1628600151630">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1852" height="309" key="GridCell.Tab.1.left/0.0.1920.1053@0.0.1920.1053" timestamp="1628600151630" />
+    <state width="1852" height="309" key="GridCell.Tab.1.right" timestamp="1628600151630">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1852" height="309" key="GridCell.Tab.1.right/0.0.1920.1053@0.0.1920.1053" timestamp="1628600151630" />
+    <state x="928" y="0" width="982" height="1053" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1627777231780">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="928" y="0" width="982" height="1053" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1627777231780" />
+  </component>
+</project>
